@@ -1,0 +1,2 @@
+# Sokoban_Beta_nocode_exe
+未开源的有很多bug的真正内测版，只包含exe
